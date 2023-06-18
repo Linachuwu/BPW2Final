@@ -4,8 +4,9 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class SceneChanger : MonoBehaviour
-//Code taken from "Switching Scene On Trigger Unity (Code in Desc if anyone wants it)" On Youtube by Emerald Development.
 {
+    //Code taken from "Switching Scene On Trigger Unity (Code in Desc if anyone wants it)" by Emerald Development on YouTube.
+
     public int LevelIndex;
 
     void Start()
